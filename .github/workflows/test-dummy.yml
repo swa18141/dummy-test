@@ -59,7 +59,7 @@ jobs:
 
       - name: Push changes to Git
         run: |
-          git push origin stage
+          git push origin swa18141-patch-1
 
 
 script file:
